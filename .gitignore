@@ -1,1 +1,4 @@
 backend/venv
+frontend/node_modules
+
+backend/test_extraction_output
